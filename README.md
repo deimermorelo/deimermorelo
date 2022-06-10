@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deimermorelo
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning programming in android studio
+- 🌱 I’m currently learning programming in android studio and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
